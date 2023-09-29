@@ -46,7 +46,7 @@
     .btn {
       text-align: center;
       color: #ffffff;
-      font-family: 'sans-serif';
+      font-family: 'Sans-Serif Workhorse';
       display: inline-block;
       margin: 10px;
     }
@@ -231,7 +231,7 @@
 
     .mid {
       padding: 10px 30px;
-      font-size: 14px;
+      font-size: 16px;
     }
 
     .large {
