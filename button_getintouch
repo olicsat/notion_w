@@ -248,7 +248,7 @@
   
   <script>
     function navigate() {
-      window.open("https://i.assiad@uhp.ac.ma", '_blank').focus();
+      window.open("i.assiad@uhp.ac.ma", '_blank').focus();
     }
   </script>
 
