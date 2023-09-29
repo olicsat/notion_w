@@ -230,8 +230,8 @@
     }
 
     .mid {
-      padding: 10px 40px;
-      font-size: 12px;
+      padding: 10px 30px;
+      font-size: 14px;
     }
 
     .large {
